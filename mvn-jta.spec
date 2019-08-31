@@ -4,7 +4,7 @@
 #
 Name     : mvn-jta
 Version  : 1.1
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/javax/transaction/jta/1.1/jta-1.1-sources.jar
 Source0  : https://repo1.maven.org/maven2/javax/transaction/jta/1.1/jta-1.1-sources.jar
 Source1  : https://repo1.maven.org/maven2/javax/transaction/jta/1.1/jta-1.1.jar
